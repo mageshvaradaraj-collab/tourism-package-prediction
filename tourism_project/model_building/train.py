@@ -1,5 +1,6 @@
 # for data manipulation
 import pandas as pd
+import numpy as np
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.compose import make_column_transformer
 from sklearn.pipeline import make_pipeline
@@ -90,8 +91,8 @@ with mlflow.start_run():
     y_pred_test = best_model.predict(Xtest)
 
     # Metrics
-    train_rmse = mean_squared_error(ytrain, y_pred_train, squared=False)
-    test_rmse = mean_squared_error(ytest, y_pred_test, squared=False)
+    train_rmse = np.sqrt(mean_squared_error(ytrain, y_pred_train))
+    test_rmse = np.sqrt(mean_squared_error(ytest, y_pred_test))
 
     train_mae = mean_absolute_error(ytrain, y_pred_train)
     test_mae = mean_absolute_error(ytest, y_pred_test)
