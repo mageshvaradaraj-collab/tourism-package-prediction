@@ -18,10 +18,10 @@ st.write("Predict whether a customer will purchase a tourism package.")
 age = st.number_input("Age", 18, 61, 18)
 city_tier = st.selectbox("City Tier", [1, 2, 3])
 
-typeofcontact = st.selectbox("Type of Contact", ["Company Invited", "Self Inquiry"])
-occupation = st.selectbox("Occupation", ["Salaried", "Freelancer", "Other"])
-gender = st.selectbox("Gender", ["Male", "Female"])
-marital_status = st.selectbox("Marital Status", ["Single", "Married", "Divorced"])
+typeofcontact = st.selectbox("Type of Contact", ["Company Invited", "Self Enquiry"])
+occupation = st.selectbox("Occupation", ["Salaried", "Free Lancer", "Small Business", "Large Business"])
+gender = st.selectbox("Gender", ["Male", "Female", "Fe  male"])
+marital_status = st.selectbox("Marital Status", ["Single", "Married", "Divorced", "UnMarried"])
 Designation = st.selectbox("Designation", ["AVP","Executive", "Manager", "Senior Manager", "VP"])
 
 num_persons = st.number_input("Number of Persons Visiting", 1, 5, 1)
@@ -64,7 +64,6 @@ if st.button("Predict"):
     prediction = model.predict(input_data)[0]
 
     st.subheader("Result:")
-
     if prediction == 1:
         st.success("Customer is likely to PURCHASE the package")
     else:
