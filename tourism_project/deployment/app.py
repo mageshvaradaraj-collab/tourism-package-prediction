@@ -3,9 +3,12 @@
 import streamlit as st
 import pandas as pd
 import joblib
+from huggingface_hub import hf_hub_download
+
+model_path = hf_hub_download(repo_id="MageshV/tourism-package-prediction", filename="best_tourism_project_model_v1.joblib")
 
 # Load trained model
-model = joblib.load("model.joblib")  # update path if needed
+model = joblib.load(model_path)  # update path if needed
 
 st.title("Tourism Package Prediction")
 st.write("Predict whether a customer will purchase a tourism package.")
