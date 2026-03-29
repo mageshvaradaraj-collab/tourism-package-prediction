@@ -22,11 +22,14 @@ typeofcontact = st.selectbox("Type of Contact", ["Company Invited", "Self Inquir
 occupation = st.selectbox("Occupation", ["Salaried", "Freelancer", "Other"])
 gender = st.selectbox("Gender", ["Male", "Female"])
 marital_status = st.selectbox("Marital Status", ["Single", "Married", "Divorced"])
+Designation = st.selectbox("Designation", ["AVP","Executive", "Manager", "Senior Manager", "VP"])
 
 num_persons = st.number_input("Number of Persons Visiting", 1, 5, 1)
 preferred_star = st.selectbox("Preferred Hotel Rating", [ 3, 4, 5])
 num_trips = st.number_input("Number of Trips per Year", 1, 20, 1)
-
+PitchSatisfactionScore = st.number_input("Pitch Satisfaction Score", 1, 5, 1)
+DurationOfPitch = st.number_input("Duration Of Pitch", 5, 127, 5)
+NumberOfFollowups = st.number_input("Number Of Followups", 1, 6, 1)
 passport = st.selectbox("Has Passport", [0, 1])
 own_car = st.selectbox("Own Car", [0, 1])
 
