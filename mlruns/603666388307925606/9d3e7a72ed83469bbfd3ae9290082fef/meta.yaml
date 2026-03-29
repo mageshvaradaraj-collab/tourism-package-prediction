@@ -1,0 +1,14 @@
+artifact_uri: /content/tourism-package-prediction/mlruns/603666388307925606/9d3e7a72ed83469bbfd3ae9290082fef/artifacts
+end_time: 1774802390267
+entry_point_name: ''
+experiment_id: '603666388307925606'
+lifecycle_stage: active
+run_id: 9d3e7a72ed83469bbfd3ae9290082fef
+run_name: polite-carp-787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774802390253
+status: 3
+tags: []
+user_id: root

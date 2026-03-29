@@ -1,0 +1,14 @@
+artifact_uri: /content/tourism-package-prediction/mlruns/603666388307925606/dcbc23fbff9440cc9d3cdcfd7fbabd19/artifacts
+end_time: 1774802389827
+entry_point_name: ''
+experiment_id: '603666388307925606'
+lifecycle_stage: active
+run_id: dcbc23fbff9440cc9d3cdcfd7fbabd19
+run_name: bedecked-wasp-96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774802389816
+status: 3
+tags: []
+user_id: root

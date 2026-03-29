@@ -1,0 +1,14 @@
+artifact_uri: /content/tourism-package-prediction/mlruns/603666388307925606/1f189cfc6c0348a59de38d3d1019f375/artifacts
+end_time: 1774802390111
+entry_point_name: ''
+experiment_id: '603666388307925606'
+lifecycle_stage: active
+run_id: 1f189cfc6c0348a59de38d3d1019f375
+run_name: amazing-whale-768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774802390099
+status: 3
+tags: []
+user_id: root

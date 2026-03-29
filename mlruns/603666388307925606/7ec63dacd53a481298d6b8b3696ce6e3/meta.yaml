@@ -1,0 +1,14 @@
+artifact_uri: /content/tourism-package-prediction/mlruns/603666388307925606/7ec63dacd53a481298d6b8b3696ce6e3/artifacts
+end_time: 1774802390435
+entry_point_name: ''
+experiment_id: '603666388307925606'
+lifecycle_stage: active
+run_id: 7ec63dacd53a481298d6b8b3696ce6e3
+run_name: amusing-toad-783
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774802390422
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: /content/tourism-package-prediction/mlruns/603666388307925606/0ca23693a61b4f639c136034e7fa779f/artifacts
+end_time: 1774802389785
+entry_point_name: ''
+experiment_id: '603666388307925606'
+lifecycle_stage: active
+run_id: 0ca23693a61b4f639c136034e7fa779f
+run_name: redolent-bug-223
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774802389773
+status: 3
+tags: []
+user_id: root

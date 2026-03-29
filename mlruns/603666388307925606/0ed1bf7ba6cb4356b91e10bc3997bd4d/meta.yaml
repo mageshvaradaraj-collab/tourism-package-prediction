@@ -1,0 +1,14 @@
+artifact_uri: /content/tourism-package-prediction/mlruns/603666388307925606/0ed1bf7ba6cb4356b91e10bc3997bd4d/artifacts
+end_time: 1774802390373
+entry_point_name: ''
+experiment_id: '603666388307925606'
+lifecycle_stage: active
+run_id: 0ed1bf7ba6cb4356b91e10bc3997bd4d
+run_name: bustling-sow-880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774802390361
+status: 3
+tags: []
+user_id: root

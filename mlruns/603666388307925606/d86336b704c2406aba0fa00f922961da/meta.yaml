@@ -1,0 +1,14 @@
+artifact_uri: /content/tourism-package-prediction/mlruns/603666388307925606/d86336b704c2406aba0fa00f922961da/artifacts
+end_time: 1774802389615
+entry_point_name: ''
+experiment_id: '603666388307925606'
+lifecycle_stage: active
+run_id: d86336b704c2406aba0fa00f922961da
+run_name: stately-hound-12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774802389603
+status: 3
+tags: []
+user_id: root

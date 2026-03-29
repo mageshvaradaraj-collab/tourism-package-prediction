@@ -1,0 +1,14 @@
+artifact_uri: /content/tourism-package-prediction/mlruns/603666388307925606/cfca7f222c754a3d91059d61e5e37ca9/artifacts
+end_time: 1774802389643
+entry_point_name: ''
+experiment_id: '603666388307925606'
+lifecycle_stage: active
+run_id: cfca7f222c754a3d91059d61e5e37ca9
+run_name: classy-bat-829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774802389631
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: /content/tourism-package-prediction/mlruns/603666388307925606/77a6a55b4f214aedba5f6232667fb9fa/artifacts
+end_time: 1774802389562
+entry_point_name: ''
+experiment_id: '603666388307925606'
+lifecycle_stage: active
+run_id: 77a6a55b4f214aedba5f6232667fb9fa
+run_name: dashing-bee-288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774802389551
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: /content/tourism-package-prediction/mlruns/603666388307925606/5dc9ef1a97534058a0c2ff63d810f4ed/artifacts
+end_time: 1774802390155
+entry_point_name: ''
+experiment_id: '603666388307925606'
+lifecycle_stage: active
+run_id: 5dc9ef1a97534058a0c2ff63d810f4ed
+run_name: gifted-crab-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774802390143
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: /content/tourism-package-prediction/mlruns/603666388307925606/6a2199fadf8e42669232b5046b660561/artifacts
+end_time: 1774802390475
+entry_point_name: ''
+experiment_id: '603666388307925606'
+lifecycle_stage: active
+run_id: 6a2199fadf8e42669232b5046b660561
+run_name: skillful-goose-489
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774802357668
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: /content/tourism-package-prediction/mlruns/603666388307925606/62c1b749537248758b3ebd753cd2f5ad/artifacts
+end_time: 1774802389953
+entry_point_name: ''
+experiment_id: '603666388307925606'
+lifecycle_stage: active
+run_id: 62c1b749537248758b3ebd753cd2f5ad
+run_name: grandiose-stoat-981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774802389942
+status: 3
+tags: []
+user_id: root

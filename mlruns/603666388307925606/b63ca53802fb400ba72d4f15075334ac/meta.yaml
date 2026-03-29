@@ -1,0 +1,14 @@
+artifact_uri: /content/tourism-package-prediction/mlruns/603666388307925606/b63ca53802fb400ba72d4f15075334ac/artifacts
+end_time: 1774802390313
+entry_point_name: ''
+experiment_id: '603666388307925606'
+lifecycle_stage: active
+run_id: b63ca53802fb400ba72d4f15075334ac
+run_name: skillful-whale-565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774802390300
+status: 3
+tags: []
+user_id: root

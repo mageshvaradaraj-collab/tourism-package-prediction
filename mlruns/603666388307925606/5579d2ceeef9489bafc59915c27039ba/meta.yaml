@@ -1,0 +1,14 @@
+artifact_uri: /content/tourism-package-prediction/mlruns/603666388307925606/5579d2ceeef9489bafc59915c27039ba/artifacts
+end_time: 1774802390298
+entry_point_name: ''
+experiment_id: '603666388307925606'
+lifecycle_stage: active
+run_id: 5579d2ceeef9489bafc59915c27039ba
+run_name: salty-fly-357
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774802390285
+status: 3
+tags: []
+user_id: root

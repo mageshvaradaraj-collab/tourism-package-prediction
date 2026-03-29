@@ -1,0 +1,14 @@
+artifact_uri: /content/tourism-package-prediction/mlruns/603666388307925606/36dc2829fc264b88ad7d8c0252df67ea/artifacts
+end_time: 1774802390205
+entry_point_name: ''
+experiment_id: '603666388307925606'
+lifecycle_stage: active
+run_id: 36dc2829fc264b88ad7d8c0252df67ea
+run_name: worried-frog-141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774802390192
+status: 3
+tags: []
+user_id: root

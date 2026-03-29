@@ -1,0 +1,14 @@
+artifact_uri: /content/tourism-package-prediction/mlruns/603666388307925606/4d923e14858e47838ef786829aa545c2/artifacts
+end_time: 1774802390068
+entry_point_name: ''
+experiment_id: '603666388307925606'
+lifecycle_stage: active
+run_id: 4d923e14858e47838ef786829aa545c2
+run_name: languid-lark-433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774802390056
+status: 3
+tags: []
+user_id: root

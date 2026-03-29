@@ -1,0 +1,14 @@
+artifact_uri: /content/tourism-package-prediction/mlruns/603666388307925606/102ce368678d479b806229c090826cb9/artifacts
+end_time: 1774802389893
+entry_point_name: ''
+experiment_id: '603666388307925606'
+lifecycle_stage: active
+run_id: 102ce368678d479b806229c090826cb9
+run_name: sassy-deer-283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774802389874
+status: 3
+tags: []
+user_id: root

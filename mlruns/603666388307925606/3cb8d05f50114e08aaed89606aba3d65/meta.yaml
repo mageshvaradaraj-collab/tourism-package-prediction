@@ -1,0 +1,14 @@
+artifact_uri: /content/tourism-package-prediction/mlruns/603666388307925606/3cb8d05f50114e08aaed89606aba3d65/artifacts
+end_time: 1774802390024
+entry_point_name: ''
+experiment_id: '603666388307925606'
+lifecycle_stage: active
+run_id: 3cb8d05f50114e08aaed89606aba3d65
+run_name: overjoyed-ray-848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774802390011
+status: 3
+tags: []
+user_id: root

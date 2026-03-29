@@ -1,0 +1,14 @@
+artifact_uri: /content/tourism-package-prediction/mlruns/603666388307925606/3e252deefb4342eca353d0120f724ea7/artifacts
+end_time: 1774802389744
+entry_point_name: ''
+experiment_id: '603666388307925606'
+lifecycle_stage: active
+run_id: 3e252deefb4342eca353d0120f724ea7
+run_name: skillful-gull-250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774802389732
+status: 3
+tags: []
+user_id: root

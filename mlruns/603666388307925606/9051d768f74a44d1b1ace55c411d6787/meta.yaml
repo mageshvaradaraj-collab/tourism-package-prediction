@@ -1,0 +1,14 @@
+artifact_uri: /content/tourism-package-prediction/mlruns/603666388307925606/9051d768f74a44d1b1ace55c411d6787/artifacts
+end_time: 1774802390328
+entry_point_name: ''
+experiment_id: '603666388307925606'
+lifecycle_stage: active
+run_id: 9051d768f74a44d1b1ace55c411d6787
+run_name: fortunate-mule-584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774802390315
+status: 3
+tags: []
+user_id: root

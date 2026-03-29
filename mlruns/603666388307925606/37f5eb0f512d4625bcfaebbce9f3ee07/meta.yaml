@@ -1,0 +1,14 @@
+artifact_uri: /content/tourism-package-prediction/mlruns/603666388307925606/37f5eb0f512d4625bcfaebbce9f3ee07/artifacts
+end_time: 1774802389995
+entry_point_name: ''
+experiment_id: '603666388307925606'
+lifecycle_stage: active
+run_id: 37f5eb0f512d4625bcfaebbce9f3ee07
+run_name: colorful-mouse-930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774802389984
+status: 3
+tags: []
+user_id: root

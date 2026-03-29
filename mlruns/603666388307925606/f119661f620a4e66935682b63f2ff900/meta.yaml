@@ -1,0 +1,14 @@
+artifact_uri: /content/tourism-package-prediction/mlruns/603666388307925606/f119661f620a4e66935682b63f2ff900/artifacts
+end_time: 1774802390009
+entry_point_name: ''
+experiment_id: '603666388307925606'
+lifecycle_stage: active
+run_id: f119661f620a4e66935682b63f2ff900
+run_name: bold-moth-826
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774802389997
+status: 3
+tags: []
+user_id: root

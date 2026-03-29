@@ -1,0 +1,14 @@
+artifact_uri: /content/tourism-package-prediction/mlruns/603666388307925606/38fca299fa9f41359e8a9a0cf65bf636/artifacts
+end_time: 1774802390388
+entry_point_name: ''
+experiment_id: '603666388307925606'
+lifecycle_stage: active
+run_id: 38fca299fa9f41359e8a9a0cf65bf636
+run_name: burly-horse-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774802390375
+status: 3
+tags: []
+user_id: root

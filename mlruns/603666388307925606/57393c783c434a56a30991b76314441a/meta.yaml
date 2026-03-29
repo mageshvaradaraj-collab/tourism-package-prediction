@@ -1,0 +1,14 @@
+artifact_uri: /content/tourism-package-prediction/mlruns/603666388307925606/57393c783c434a56a30991b76314441a/artifacts
+end_time: 1774802389509
+entry_point_name: ''
+experiment_id: '603666388307925606'
+lifecycle_stage: active
+run_id: 57393c783c434a56a30991b76314441a
+run_name: kindly-squirrel-241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774802389495
+status: 3
+tags: []
+user_id: root

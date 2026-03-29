@@ -1,0 +1,14 @@
+artifact_uri: /content/tourism-package-prediction/mlruns/603666388307925606/4586a0738b5a41bfb5dc2b9697e16390/artifacts
+end_time: 1774802390170
+entry_point_name: ''
+experiment_id: '603666388307925606'
+lifecycle_stage: active
+run_id: 4586a0738b5a41bfb5dc2b9697e16390
+run_name: legendary-gull-95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774802390157
+status: 3
+tags: []
+user_id: root
